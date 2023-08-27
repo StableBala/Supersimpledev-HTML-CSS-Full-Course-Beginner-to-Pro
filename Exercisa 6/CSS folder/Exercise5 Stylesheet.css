@@ -1,0 +1,168 @@
+body{
+    background-color: rgb(95,95,95);
+    color: black;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    }
+
+
+    .Apple-New1{
+    color: rgb(233, 151, 0);
+    background-color: white;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    padding-bottom: 5px;}
+
+    .Apple-Mac2{
+    color: black;
+    background-color: white;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    padding-bottom: 5px;}
+
+    .Apple-Pros3{
+    color: black;
+    background-color: white;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    font-weight: bolder;
+    padding-bottom: 5px;}
+
+    .Apple-From4{
+    color: black;
+    background-color: white;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    padding-bottom: 5px;}
+
+    .Apple-p5{
+    color: rgb(255, 255, 255);
+    background-color: white;
+    margin-top: 0px;
+    margin-top: 0px;
+    margin-bottom: 50px;
+    padding-bottom: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;}
+
+    .Apple-Button{
+    margin-top: 0px;
+    margin-top: 0px;
+    color: white;
+    background-color: rgb(0, 144, 240);
+    margin-top: 0px;
+    margin-bottom: 0px;
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    border-style: none;
+    border-radius: 10px;
+    padding-top: 3px;
+    padding-bottom: 3px;}
+
+
+    .Stocks-Numbers1{
+    color: black;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-weight:400;
+    font-size: 36px;}
+
+    .Stock-Numbers2{
+    color: rgba(0, 0, 0, 0.62);
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 0px;
+    margin-bottom: 0px;  
+    margin-left: 5px; 
+    font-size: 16px;
+    font-weight: 400}
+
+
+    .Stock-death3{
+    color: rgb(101, 158, 117);
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 16px;
+    line-height: 24px;}
+
+
+    .Stock-hours4{
+    color: rgba(0, 0, 0, 0.62);
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 0px;
+    margin-bottom: 0px; 
+    line-height: 24px;
+    margin-bottom: 50px;
+    font-weight: 400}
+
+    .Stock-death5{
+    color: rgb(217, 48, 37);
+    font-weight: normal;    
+}
+
+.First-line1{
+color: black;
+background-color: white;
+font-family: Arial, Helvetica, sans-serif;
+margin-top: 0px;
+margin-bottom: 0px;
+font-weight:bold;
+padding-top: 10px;
+font-size: 20px;
+}
+
+.First-line2{
+    color: rgba(0, 0, 0, 0.62);
+    font-weight: normal;  
+}
+
+.Second-line3{
+color: black;
+background-color: white;
+font-family: Arial, Helvetica, sans-serif;
+margin-top: 0px;
+margin-bottom: 0px;
+padding-top: 10px;
+}
+
+.Second-line4{
+color: black;
+background-color: white;
+font-family: Arial, Helvetica, sans-serif;
+margin-top: 0px;
+margin-bottom: 0px;
+padding-top: 0px;
+}
+
+.Last-line5{
+color: black;
+background-color: white;
+font-family: Arial, Helvetica, sans-serif;
+margin-top: 0px;
+margin-bottom: 0px;
+padding-top: 10px;    
+}
+
+.Last-lats6{
+color: rgb(3, 140, 231);
+}
